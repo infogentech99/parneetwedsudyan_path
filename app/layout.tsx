@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     title: "Parneet Kaur & Udyan Luthra",
-    description: "Join as they begin their forever. 17, 19, 20 & 21 November, 2026",
+    description: "Join as they begin their forever. 17 November, 2026",
     url: "https://parneetwedsudyan.vercel.app/",
     siteName: "InviteArc",
     images: [
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Parneet Kaur & Udyan Luthra",
-    description: "Join as they begin their forever. 17, 19, 20 & 21 November, 2026",
+    description: "Join as they begin their forever. 17 November, 2026",
     images: ["/og.jpg"],
   },
 

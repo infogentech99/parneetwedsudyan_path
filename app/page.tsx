@@ -172,17 +172,17 @@ export default function Home() {
         </div>
       </div>
 
-<h2 className="text-[#15528A] text-sm md:text-xl lg:text-3xl font-playfair-display">
+<h2 className="text-[#15528A] text-[16px] md:text-xl lg:text-3xl font-playfair-display">
               With the blessings of
             </h2>
-<h2 className="text-[#800000] text-xl md:text-lg lg:text-[26px] font-playfair-display font-semibold">
+<h2 className="text-[#15528A] text-xl md:text-lg lg:text-[26px] font-playfair-display font-semibold">
               Sdn. Rajinder Kaur <br/> & <br/> Late S. Bupinder Singh Biji
               <br />and<br/>
               Sdn. Jaspreet Kaur <br/>&<br/>Late S. Pritam Singh Khalsa
               
             </h2>
 
-            <h2 className="text-[#15528A] text-sm md:text-xl lg:text-3xl font-playfair-display w-60 md:w-180">
+            <h2 className="text-[#15528A] text-[16px] md:text-xl lg:text-3xl font-playfair-display w-80 md:w-180">
              We are grateful for their love, guidenace and blessings as we embark on this new beginning.
             </h2>
 
