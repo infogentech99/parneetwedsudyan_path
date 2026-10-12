@@ -42,13 +42,13 @@ const FloatingLamp = ({ className, style, reverse = false }: { className: string
 
 export default function Home() {
   const events = [
-    // {
-    //   title_ceremony: "Shri Sukhmani Sahib Path",
-    //   image: "/assets/path.webp",
-    //   venue_address: <>Tuesday, November 17th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 11:00 am Onwards</>,
-    //   food: "Followed by Langer",
-    //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
-    // },
+    {
+      title_ceremony: "Shri Sukhmani Sahib Path",
+      image: "/assets/path.webp",
+      venue_address: <>Tuesday, November 17th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 11:00 am Onwards</>,
+      food: "Followed by Langer",
+      link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
+    },
 
     // {
     //   title_ceremony: "Nazz-e-kashmir",
@@ -57,12 +57,12 @@ export default function Home() {
     //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
     // },
 
-    {
-      title_ceremony: "Jaago Night",
-      image: "/assets/jago_amul.png",
-      venue_address: <>Friday, November 20th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 5:30 pm Onwards</>,
-      link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
-    },
+    // {
+    //   title_ceremony: "Jaago Night",
+    //   image: "/assets/jago_amul.png",
+    //   venue_address: <>Friday, November 20th 2026 <br />  At our residence (#1351, Sector 10, Ambala) <br /> 5:30 pm Onwards</>,
+    //   link: "https://maps.app.goo.gl/LB8ktoaLUh7SnxQ29",
+    // },
 
     // {
     //   title_ceremony: "Wedding",
@@ -216,7 +216,7 @@ export default function Home() {
 
                   <p className="text-[#15528A] font-playfair-display text-sm md:text-base mt-2">
                     <span className="text-sm md:text-base lg:text-xl">{event.venue_address}</span> <br />
-                    {/* <span className="text-sm md:text-base lg:text-xl">{event.food}</span> */}
+                    <span className="text-sm md:text-base lg:text-xl">{event.food}</span>
                   </p>
 
                   <a
