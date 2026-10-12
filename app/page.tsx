@@ -158,6 +158,48 @@ export default function Home() {
               alt="idol" width={100} height={100}
               className="w-20 h-25 md:w-40 md:h-40 lg:w-40 lg:h-42 object-cover" />
 
+<div className="flex items-center w-5/6 md:w-1/2 mt-10 mb-4">
+        <div className="flex-1">
+          <div className="border-t-2 border-[#15528A]" />
+          <div className="border-t border-[#15528A] mt-1" />
+        </div>
+
+        <span className="mx-4 text-[#15528A] text-lg">✦</span>
+
+        <div className="flex-1">
+          <div className="border-t-2 border-[#15528A]" />
+          <div className="border-t border-[#15528A] mt-1" />
+        </div>
+      </div>
+
+<h2 className="text-[#15528A] text-sm md:text-xl lg:text-3xl font-playfair-display">
+              With the blessings of
+            </h2>
+<h2 className="text-[#800000] text-xl md:text-lg lg:text-[26px] font-playfair-display font-semibold">
+              Sdn. Rajinder Kaur <br/> & <br/> Late S. Bupinder Singh Biji
+              <br />and<br/>
+              Sdn. Jaspreet Kaur <br/>&<br/>Late S. Pritam Singh Khalsa
+              
+            </h2>
+
+            <h2 className="text-[#15528A] text-sm md:text-xl lg:text-3xl font-playfair-display w-60 md:w-180">
+             We are grateful for their love, guidenace and blessings as we embark on this new beginning.
+            </h2>
+
+<div className="flex items-center w-5/6 md:w-1/2 mt-4 mb-10">
+        <div className="flex-1">
+          <div className="border-t-2 border-[#15528A]" />
+          <div className="border-t border-[#15528A] mt-1" />
+        </div>
+
+        <span className="mx-4 text-[#15528A] text-lg">✦</span>
+
+        <div className="flex-1">
+          <div className="border-t-2 border-[#15528A]" />
+          <div className="border-t border-[#15528A] mt-1" />
+        </div>
+      </div>
+
             <h2 className="text-[#15528A] text-sm md:text-xl lg:text-3xl md:pt-8 font-playfair-display">
               With the blessings of Waheguru Ji
             </h2>
@@ -172,9 +214,7 @@ export default function Home() {
           </div>
 
           <div className="mt-8 text-center">
-            {/* <h2 className="text-[#15528A] font-playfair-display text-3xl md:text-5xl lg:text-6xl leading-tight lg:tracking-wide tracking-wider">
-              INVITES
-            </h2> */}
+           
 
             <p className="text-[#15528A] font-playfair-display text-sm md:text-xl lg:text-3xl mt-6">
               Invite you to celebrate you the auspicious union of their beloved daughter
